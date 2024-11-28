@@ -57,7 +57,7 @@ def sort_files():
 
 # main window
 root = tk.Tk()
-root.title("FilesSorter - @tamino1230")
+root.title("FilesSorterEz - @tamino1230")
 root.iconbitmap('babToma.ico')
 root.geometry("400x350")
 root.configure(bg=bgcolor)
